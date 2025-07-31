@@ -1,8 +1,10 @@
 # Bluestacks-Tool
 A GUI application for modifying the bluestacks emulator with features such as rooting, removing ads, editing memory, backup and restore, and more!
+
+**Disclaimer: THIS REPOSITORY IS FOR EDUCATIONAL PURPOSES. I AM NOT LIABLE FOR ANY MISUSE.**
 __________________________________________________
 
-This is still a WIP.
+**This is still a WIP. You cannot use it.**
 This is Open-source, feel free to use, modify, and redistribute anything in this repository (with credit)!
 
 A GUI application coded in python / c++ / c# for modifying the bluestacks emulator.
